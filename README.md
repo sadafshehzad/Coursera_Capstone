@@ -17,3 +17,4 @@ Last year a group of my colleagues had to visit Karachi on a business trip. They
 So, I thought to make a project for my colleagues. Specifically, this report can provide a reference for any one, visiting Karachi for the first time, and those who are interested in exploring the different cuisines and shopping, offered there.
 Foursquare API Data:
 We will need data about different venues in different addresses of the places around Hotel Marriott. In order to gain that information, we will use “Foursquare” locational information. Foursquare is a location data provider with information about all manner of venues and events within an area of interest. Such information includes venue names, locations, menus and even photos. As such, the foursquare location platform will be used as the sole data source since all the stated required information can be obtained through the API.
+![image](https://github.com/user-attachments/assets/7ed9bc4c-757e-43e5-9cbd-4632f3a4b861)
