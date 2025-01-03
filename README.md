@@ -56,3 +56,16 @@ For this report I used a few different maps that could help anyone visiting Paki
 The maps and data frames will help them decide the best Food places, shopping malls , social activity places.
 In order to do that I’ve used the Foursquare API to gather information around Hotel Marriott and the use K means Clustering technique to group/ cluster different addresses in Karachi based on the categories.
 
+![8](https://github.com/user-attachments/assets/b5ef7047-c5b4-4e0b-ab1f-0b0d6056742d)
+
+![10](https://github.com/user-attachments/assets/d81c9fb5-3bdf-4b7e-a7af-426ea39da178)
+
+![11](https://github.com/user-attachments/assets/0eada644-b9fa-46e6-bb77-603d4acb2496)
+
+![1](https://github.com/user-attachments/assets/dbdc02f3-22ba-4e17-bf8a-e8a2a32a4a60)
+
+
+
+
+
+
